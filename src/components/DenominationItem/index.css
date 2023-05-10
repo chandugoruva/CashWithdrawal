@@ -1,0 +1,14 @@
+.button {
+  background-color: #382f5a;
+  border: #c4c4c4 2px solid;
+  height: 40px;
+  width: 130px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-radius: 6px;
+  margin-right: 10px;
+  max-width: 400px;
+}
+.for-li {
+  list-style-type: none;
+}
